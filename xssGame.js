@@ -1,1 +1,2 @@
-<svg onload=alert(1)>
+console.log('I am here');
+alert('Testing');
